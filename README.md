@@ -45,7 +45,7 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
  📂 Clona el repositorio:
 ```bash
 
-git clone 
+git clone https://github.com/INGJUANBCH19/Alurageek.git
 cd Alurageek
 
  Instala json-server:
