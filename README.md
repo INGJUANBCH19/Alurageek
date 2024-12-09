@@ -52,7 +52,7 @@ Asegúrate de tener Node.js instalado. Luego, ejecuta:
 
 bash
 
-
+---
 📂 Copiar código
 npm install -g json-server
 3. Inicia el servidor JSON:
@@ -68,8 +68,8 @@ Abre el archivo index.html en tu navegador.
 
 
 
-
-🧰 Uso
+---
+###🧰 Uso
 Agregar productos:
 Llena los campos del formulario:
 Nombre: Nombre del producto.
