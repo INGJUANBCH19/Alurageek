@@ -1,0 +1,28 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Play Station 5",
+      "precio": 1500000,
+      "imagen": "./assets/producto1jpg.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Macbook air M1",
+      "precio": 3725000,
+      "imagen": "./assets/producto2.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Iphone 15",
+      "precio": 5427000,
+      "imagen": "./assets/producto3.jpg"
+    },
+    {
+      "id": "8257",
+      "nombre": "Termo Yeti",
+      "precio": 320000,
+      "imagen": "https://ohmybottle.com.co/cdn/shop/files/yeti_rambler_termo_charcoal_25_oz2.png?v=1722392568&width=1445"
+    }
+  ]
+}
